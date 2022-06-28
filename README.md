@@ -1,4 +1,7 @@
 ### Hi there 👋
+- My name's Michael, but everybody calls me Micha. 
+- I like extreme sports (I love so much mountain biking) and sports in general. I'm interested in software development, science and engineering.
+- How to reach me: mich4el.flores@gmail.com
 
 <!--
 **mfloresss/mfloresss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
