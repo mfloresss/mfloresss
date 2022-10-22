@@ -1,6 +1,6 @@
 ### Hi there 👋
 - My name's Michael, but everybody calls me Micha. 
-- I like extreme sports (I love so much mountain biking) and sports in general. I'm interested in software development, science and engineering.
+- I like extreme sports (I love so much mountain bike) and sports in general. I'm interested in software development, science and engineering.
 - How to reach me: mich4el.flores@gmail.com
 
 <!--
